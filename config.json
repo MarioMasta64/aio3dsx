@@ -1,0 +1,14 @@
+{
+	"config": {
+		"self_updater": false,
+		"delete_archives": true,
+	},
+	"entries": [
+		{
+			"name": "essential files",
+			"url": "https://github.com/MarioMasta64/aio3dsx",
+			"inrelease": "boot\\.3dsx",
+			"path": "/boot.3dsx"
+		}
+	]
+}
