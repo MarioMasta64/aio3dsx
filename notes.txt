@@ -1,0 +1,60 @@
+https://gbatemp.net/threads/how-to-make-a-fast-cfw-installer-ntrboot-card.487215/
+
+files used:
+
+[pre req]
+
+python 3.6.5
+https://www.python.org/downloads/
+
+git 2.16.3
+https://git-scm.com/downloads/
+
+devkitpro arm
+https://sourceforge.net/projects/devkitpro/
+
+firmtool commit 010c8bb
+https://github.com/TuxSH/firmtool/
+
+[part 1]
+
+[1] [boot9strap.firm]
+boot9strap 1.3
+https://github.com/SciresM/boot9strap/releases/
+
+[2] [boot.firm]
+luma 9.0
+https://github.com/AuroraWright/Luma3DS/releases/
+
+[3] [MultiUpdater.3dsx]
+multiupdater 4.0.2
+https://github.com/LiquidFenrir/MultiUpdater/releases/
+
+[4] [autorun.gm9]
+http://cheatfreak47.cf/3ds/autorun.gm9
+
+[5] [config_CHN.bin]
+[6] [config_EUR.bin]
+[7] [config_JPN.bin]
+[8] [config_KOR.bin]
+[9] [config_TWN.bin]
+[10] [config_USA.bin]
+http://cheatfreak47.cf/3ds/luma9configs.zip
+
+[11] [aeskeydb.bin]
+[12] [secret_sector.bin]
+https://3ds.guide/a9lh-to-b9s
+
+[13] [config.json]
+http://cheatfreak47.cf/3ds/config.json
+
+[repos]
+
+godmode9 commit ed55cff
+https://github.com/d0k3/GodMode9.git
+
+zip3dsfx commit 1d382cf
+https://github.com/d0k3/zip3dsfx.git
+
+[part 2]
+
